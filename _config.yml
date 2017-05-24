@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Truesilver thoughts
+email:       kpajak@gmail.com
+author:      Krzysztof Pająk
+description: "Luźne przemyślenia"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://exogenesick.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -48,14 +48,14 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: exogenesick
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
 skype_username:
-steam_nickname:
+steam_nickname: exogenesick
 google_plus_id:
-linkedin_username:
+linkedin_username: exogenesick
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -79,8 +79,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Nowsze'
+    older: 'Starsze'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
